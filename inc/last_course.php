@@ -1,0 +1,1 @@
+<div id="last_course"></div>

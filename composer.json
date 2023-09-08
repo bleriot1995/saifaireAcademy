@@ -1,0 +1,16 @@
+{
+    "name": "blerio/elearning",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Blerio\\Elearning\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bleriot1995",
+            "email": "bleriottiana1995@gmail.com"
+        }
+    ],
+    "require": {}
+}
